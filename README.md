@@ -49,7 +49,7 @@ However, here are top 10 hypotheses of how it can work:
 6. A combination of those
 7. Other unknown mechanisms
 
-How to protect yourself?
+## How to protect yourself?
 
 - Avoid dental anaesthetics
 - Avoid vaccines
