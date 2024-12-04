@@ -4,8 +4,8 @@
 
 DARPA-created technology (in collaboration with numerous partners and contractors) which is used for multiple purposes:
 
-1. Creation of brain network society (telepathic social network)
-2. Control and monitoring of thoughts
+1. Monitoring and remote reading of thoughts
+2. Control and filtering of thoughts
 3. Neuro-modulation
 4. Illegal data sets generation using neural data collection
 5. Mind control and Mind programming
@@ -30,6 +30,7 @@ DARPA-created technology (in collaboration with numerous partners and contractor
 24. Remote body control and senses sharing
 25. Full version has battle and tactical operations support (initial design)
 26. Emergency cases assistance
+27. Creation of brain network society (telepathic social network)
 
 --------
 
