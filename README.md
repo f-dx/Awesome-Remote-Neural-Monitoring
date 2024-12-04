@@ -1,6 +1,6 @@
 # Awesome-Remote-Neural-Monitoring
 
-What is Remote Neural Monitoring?
+## What is Remote Neural Monitoring?
 
 DARPA-created technology (in collaboration with numerous partners and contractors) which is used for multiple purposes:
 
@@ -34,14 +34,14 @@ DARPA-created technology (in collaboration with numerous partners and contractor
 --------
 
 
-Mechanism of action: possible explanation and reverse-engineering
+## Mechanism of action: possible explanation and reverse-engineering
 
 Unfortunately, there is no common scientifically proven mechanism of action available in Targeted Individuals community.
 
 However, here are top 10 hypotheses of how it can work:
 
 1. Self-assembly (graphene-oxide based nano particles)
-2. CRISP CAS9 DNA modification and combination of supportive mechanisms
+2. CRISPR-Cas9 DNA modification and combination of supportive mechanisms
 3. Altered bio agents, parasites/bacterias/bacteriophages/single cell parasites (like Toxoplasma) and combination of them
 4. Neuroprosthetics delivered using unknown mechanism of action
 5. Micro implants (dental and other simple ways of delivery)
