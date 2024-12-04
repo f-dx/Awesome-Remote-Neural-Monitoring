@@ -62,7 +62,9 @@ How to protect yourself?
 - Use N95 mask in public places
 - Regularly wash your hands
 
-How to deactivate? 
+--------
+
+## How to deactivate? 
 
 - RNM programming and control (easiest one)
 - Isolation / Protection
