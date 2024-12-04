@@ -66,7 +66,7 @@ How to protect yourself?
 
 ## How to deactivate? 
 
-- RNM programming and control (easiest one)
+- RNM programming and control (easiest one when you are not a Targeted Individual)
 - Isolation / Protection
 - EMF fields
 - RF fields
