@@ -76,7 +76,7 @@ However, here are top 10 hypotheses of how it can work:
 - Chemical / Pharmacology ways
 - Physical activities
 - **Immune system stimulation**
-- Locate and disable in-wall emitters (using thermal cameras)
+- Locate and disable in-wall emitters (using thermal cameras and RF scanners like HackRF)
 - Mixed approaches
 
 --------
