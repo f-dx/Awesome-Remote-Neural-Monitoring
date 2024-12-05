@@ -82,12 +82,12 @@ However, here are top 10 hypotheses of how it can work:
 
 ## Activation mechanism
 
-1. Rental properties and hotels
+## 1. Rental properties and hotels
 
 The Global Government is using black budgets and fake identities to buy properties near rental objects (and rental objects), which they then use as bases for local RNM operations. 
 They basically have a presence in about 30-70% (a rough estimate) of hotels in Spain, for example. 
 Platforms like Booking.com, Airbnb, and Idealista are used to redirect individuals to specific locations, which are totally controlled by local agents and equipped with RNM tuning equipment.
 
-2. In-wall built-in devices in hotels and apartments (high density near roofs)
+## 2. In-wall built-in devices in hotels and apartments (high density near roofs)
 
 Local RNM (Remote Neural Monitoring) controllers, also known as hubs, are located near more than 60% of rental properties. They utilize a range of frequencies, including the 450-1250 MHz RF spectrum and the 2400-2500 MHz RF spectrum, as well as ultrasound and arrays of sound emitters for V2K (Voice to Skull) and psychological operations.
