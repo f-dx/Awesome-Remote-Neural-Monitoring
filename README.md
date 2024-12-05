@@ -100,4 +100,5 @@ Local RNM (Remote Neural Monitoring) controllers, also known as hubs, are locate
 - Satellites arrays (likely low orbit)
 - Ultrasound
 - Probably visual channel (optical nerve stimulation): via hidden patterns using LCD screens (iOS, Androoid, MacOS devices)
+- Other unknown methods: area to explore further
 
