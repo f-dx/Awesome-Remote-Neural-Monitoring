@@ -6,31 +6,32 @@ DARPA-created technology (in collaboration with numerous partners and contractor
 
 1. Monitoring and remote reading of thoughts
 2. Control and filtering of thoughts
-3. Neuro-modulation
-4. Illegal data sets generation using neural data collection
-5. Mind control and Mind programming
-6. Synthetic dreams and sleep patterns altering
-7. Stunning (including coma-like states)
-8. **Kill switch mechanism (immediate death in 120-200ms)**
-9. Pain / Pleasure centers control and patterns modulation
-10. Thoughts suppression, inner dialogue suppression
-11. Thoughts injection / prompting
-12. Audio, Visual, Tactile hallucinations
-13. Muscle twitches and body movements control
-14. Full vision channel and audio capture
-15. Memories alteration and memories injection (work in progress)
-16. Hormonal system control
-17. Attention / Focus control
-18. Social Patterns Modification
-19. Visual cortex control
-20. Realtime EEG-like data collection 24x7
-21. Body telemetry collection 24x7
-22. Alter ego center creation, personality splitting
-23. **Simulation of full spectrum of psychiatric disorders**
-24. Remote body control and senses sharing
-25. Full version has battle and tactical operations support (initial design)
-26. Emergency cases assistance
-27. Creation of brain network society (telepathic social network)
+3. Body hijacking for full remote control
+4. Neuro-modulation
+5. Illegal data sets generation using neural data collection
+6. Mind control and Mind programming
+7. Synthetic dreams and sleep patterns altering
+8. Stunning (including coma-like states)
+9. **Kill switch mechanism (immediate death in 120-200ms)**
+10. Pain / Pleasure centers control and patterns modulation
+11. Thoughts suppression, inner dialogue suppression
+12. Thoughts injection / prompting
+13. Audio, Visual, Tactile hallucinations
+14. Muscle twitches and body movements control
+15. Full vision channel and audio capture
+16. Memories alteration and memories injection (work in progress)
+17. Hormonal system control
+18. Attention / Focus control
+19. Social Patterns Modification
+20. Visual cortex control
+21. Realtime EEG-like data collection 24x7
+22. Body telemetry collection 24x7
+23. Alter ego center creation, personality splitting
+24. **Simulation of full spectrum of psychiatric disorders**
+25. Remote body control and senses sharing
+26. Full version has battle and tactical operations support (initial design)
+27. Emergency cases assistance
+28. Creation of brain network society (telepathic social network)
 
 --------
 
