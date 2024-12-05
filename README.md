@@ -92,3 +92,12 @@ Platforms like Booking.com, Airbnb, and Idealista are used to redirect individua
 ## 2. In-wall built-in devices in hotels and apartments (high density near roofs)
 
 Local RNM (Remote Neural Monitoring) controllers, also known as hubs, are located near more than 60% of rental properties. They utilize a range of frequencies, including the 450-1250 MHz RF spectrum and the 2400-2500 MHz RF spectrum, as well as ultrasound and arrays of sound emitters for V2K (Voice to Skull) and psychological operations.
+
+## How signal is delivered
+
+- Wi-FI (any wi-fi router), Bluetooth (any bluetooth device)
+- Cellular Mobile Networks: GSM, 3G, LTE, 5G
+- Satellites arrays (likely low orbit)
+- Ultrasound
+- Probably visual channel (optical nerve stimulation): via hidden patterns using LCD screens (iOS, Androoid, MacOS devices)
+
