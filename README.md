@@ -61,6 +61,7 @@ However, here are top 10 hypotheses of how it can work:
 - Use air filters at home to protect yourself from neural dust
 - Use N95 mask in public places
 - Regularly wash your hands
+- Other unknown strategies
 
 --------
 
@@ -78,6 +79,7 @@ However, here are top 10 hypotheses of how it can work:
 - **Immune system stimulation**
 - Locate and disable in-wall emitters (using thermal cameras and RF scanners like HackRF)
 - Mixed approaches
+- Other unknown methods
 
 --------
 
