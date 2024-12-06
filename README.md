@@ -88,7 +88,7 @@ However, here are top 10 hypotheses of how it can work:
 
 ## 1. Rental properties and hotels
 
-The Global Government is using black budgets and fake identities to buy properties near rental objects (and rental objects), which they then use as bases for local RNM operations. 
+The Global Government is using black budgets and fake identities to buy properties near rental objects, which they then use as bases for local RNM operations. 
 They basically have a presence in about 30-70% (a rough estimate) of hotels in Spain, for example. 
 Platforms like Booking.com, Airbnb, and Idealista are used to redirect individuals to specific locations, which are totally controlled by local agents and equipped with RNM tuning equipment.
 
