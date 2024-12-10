@@ -17,7 +17,7 @@ DARPA-created technology (in collaboration with numerous partners and contractor
 11. Suppression of thoughts and inner dialogue.
 12. Injection/prompting of thoughts.
 13. Audio, visual, and tactile hallucinations.
-14. Control of muscle twitches and body movements.
+14. Controllable muscle twitches - tactile interface.
 15. Full vision channel and audio capture.
 16. Alteration and injection of memories (work in progress).
 17. Control of the hormonal system.
