@@ -21,7 +21,7 @@ DARPA-created technology (in collaboration with numerous partners and contractor
 15. Full vision channel and audio capture.
 16. Alteration and injection of memories (work in progress).
 17. Control of the hormonal system.
-18. Control of attention and focus.
+18. Control of attention and focus, ability to suppress an activity.
 19. Modification of social patterns.
 20. Control of the visual cortex.
 21. Real-time EEG-like data collection 24/7.
