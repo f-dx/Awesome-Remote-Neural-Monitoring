@@ -4,15 +4,15 @@
 
 DARPA-created technology (in collaboration with numerous partners and contractors) which is used for multiple purposes:
 
-1. Monitoring and remote reading of thoughts
-2. Control and filtering of thoughts
-3. Body hijacking for full remote control
-4. Neuro-modulation
-5. Illegal data sets generation using neural data collection
-6. Mind control and Mind programming
-7. Synthetic dreams and sleep patterns altering
+1. Remote monitoring and recognition of neural activity
+2. Access to Broca's area (language center in the brain)
+3. Illegal data sets generation using neural data collection
+4. Neuro-modulation: low-level access to the majority of brain functions 
+5. Body telemetry collection 24x7
+6. Consciousness altering mechanisms
+7. Synthetic modulated dreams and sleep patterns altering
 8. Stunning (including coma-like states)
-9. **Kill switch mechanism (immediate death in 120-200ms)**
+9. Kill switch mechanism (immediate death in 120-200ms)
 10. Pain / Pleasure centers control and patterns modulation
 11. Thoughts suppression, inner dialogue suppression
 12. Thoughts injection / prompting
@@ -25,13 +25,12 @@ DARPA-created technology (in collaboration with numerous partners and contractor
 19. Social Patterns Modification
 20. Visual cortex control
 21. Realtime EEG-like data collection 24x7
-22. Body telemetry collection 24x7
-23. Alter ego center creation, personality splitting
-24. **Simulation of full spectrum of psychiatric disorders**
-25. Remote body control and senses sharing
-26. Full version has battle and tactical operations support (initial design)
-27. Emergency cases assistance
-28. Creation of brain network society (telepathic social network)
+22. Body hijacking for full remote control (if fully activated and deployed)
+23. Simulation of full spectrum of neurological disorders
+24. Remote body control and senses sharing
+25. Full version has battle and tactical operations support (initial design)
+26. Emergency cases assistance
+27. Creation of brain network society (neural social network)
 
 --------
 
@@ -70,6 +69,7 @@ However, here are top 10 hypotheses of how it can work:
 
 - RNM programming and control (easiest one when you are not a Targeted Individual)
 - Isolation / Protection
+- Immune system stimulation
 - EMF fields
 - RF fields
 - Vibration
@@ -77,7 +77,6 @@ However, here are top 10 hypotheses of how it can work:
 - TENS electroestimulation
 - Chemical / Pharmacology ways
 - Physical activities
-- **Immune system stimulation**
 - Locate and disable in-wall emitters (using thermal cameras and RF scanners like HackRF)
 - Mixed approaches
 - Other unknown methods
