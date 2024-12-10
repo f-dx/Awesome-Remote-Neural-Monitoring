@@ -65,17 +65,17 @@ However, here are top 5 hypotheses of how it can work:
 
 ## How to deactivate? 
 
-- RNM programming and control (easiest one when you are not a Targeted Individual)
 - Isolation / Protection
-- Immune system stimulation
 - EMF fields
 - RF fields
 - Vibration
 - Ultra Sound
+- Immune system stimulation
 - TENS electroestimulation
 - Chemical / Pharmacology ways
 - Physical activities
 - Locate and disable in-wall emitters (using thermal cameras and RF scanners like HackRF)
+- RNM programming and control via default gestures interface (easiest one when you are not a Targeted Individual)
 - Mixed approaches
 - Other unknown methods
 
