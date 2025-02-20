@@ -1,6 +1,6 @@
 # Awesome-Remote-Neural-Monitoring
 
-**Techno-authoritarianism**, also known as **IT-backed authoritarianism**, **digital authoritarianism** or **digital dictatorship**,[[1]](https://en.wikipedia.org/wiki/Techno-authoritarianism#cite_note-1)[[2]](https://en.wikipedia.org/wiki/Techno-authoritarianism#cite_note-:1-2) refers to the state use of information technology in order to control or manipulate both foreign and domestic populations.
+** The information requires facts verification. The research is in progress. **
 
 ## What is Remote Neural Monitoring?
 
