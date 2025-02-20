@@ -8,7 +8,7 @@ A brain-computer interface (BCI), also known as a brain-machine interface (BMI),
 
 What are illegal BCI. What is neural terrorism?
 
-Neural Terrorism Definition:
+### Neural Terrorism Definition:
 "The deliberate misuse of neurotechnology and brain-computer interfaces to cause harm, manipulate neural functions, or exploit brain data for malicious purposes against individuals or groups."
 
 Common Security Risks:
