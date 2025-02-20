@@ -1,36 +1,58 @@
 # Awesome-Remote-Neural-Monitoring
 
+**Techno-authoritarianism**, also known as **IT-backed authoritarianism**, **digital authoritarianism** or **digital dictatorship**,[[1]](https://en.wikipedia.org/wiki/Techno-authoritarianism#cite_note-1)[[2]](https://en.wikipedia.org/wiki/Techno-authoritarianism#cite_note-:1-2) refers to the state use of information technology in order to control or manipulate both foreign and domestic populations.
+
 ## What is Remote Neural Monitoring?
 
-DARPA-created technology (in collaboration with numerous partners and contractors) which is used for multiple purposes:
+A brain-computer interface (BCI), also known as a brain-machine interface (BMI), is a technology that enables direct communication between the brain's electrical activity and external devices, primarily computers. BCIs are designed to research, map, assist, augment, or alter human cognitive and sensory-motor functions, bypassing traditional neuromuscular pathways.
 
-1. Remote monitoring and recognition of neural activity across specific brain areas.
-2. Access to Broca's area, the language center in the brain.
-3. Illegal generation of data sets using neural data collection.
-4. Neuro-modulation: low-level access to the majority of brain functions.
-5. Body telemetry collection 24/7.
-6. Consciousness-altering mechanisms.
-7. Synthetic, modulated dreams and sleep patterns altering.
-8. Stunning, including coma-like states.
-9. A kill switch mechanism, resulting in immediate death in 120-200ms.
-10. Control and modulation of pain and pleasure centers.
-11. Suppression of thoughts and inner dialogue.
-12. Injection/prompting of thoughts.
-13. Audio, visual, and tactile hallucinations.
-14. Controllable muscle twitches - tactile interface.
-15. Full vision channel and audio capture.
-16. Alteration and injection of memories (work in progress).
-17. Control of the hormonal system.
-18. Control of attention and focus, ability to suppress an activity.
-19. Modification of social patterns.
-20. Control of the visual cortex.
-21. Real-time EEG-like data collection 24/7.
-22. Body hijacking for full remote control (if fully activated and deployed).
-23. Simulation of the full spectrum of neurological disorders.
-24. Remote body control and senses sharing.
-25. The full version has battle and tactical operations support (initial design).
-26. Assistance in emergency cases.
-27. Creation of a brain network society (neural social network).
+What are illegal BCI. What is neural terrorism?
+
+Neural Terrorism Definition:
+"The deliberate misuse of neurotechnology and brain-computer interfaces to cause harm, manipulate neural functions, or exploit brain data for malicious purposes against individuals or groups."
+
+Common Security Risks:
+- Unauthorized access to neural data
+- Brain tampering/hacking 
+- Privacy breaches
+- Signal interference
+- Malicious neural patterns injection
+- Social Engineering attacks
+- Tools for remote torture
+
+
+A technology that is used for multiple purposes:
+
+1. SURVEILLANCE & MONITORING
+- Remote neural activity monitoring
+- Body telemetry collection 24/7
+- Real-time EEG data collection
+- Full vision and audio capture
+
+2. COGNITIVE CONTROL
+- Access to language centers (Broca's area)
+- Thought suppression/injection
+- Memory alteration capabilities 
+- Attention/focus control
+- Consciousness modification
+- Dream/sleep pattern modulation
+- Neural social networking
+
+3. SENSORY & PHYSICAL MANIPULATION 
+- Audio/visual/tactile hallucinations
+- Muscle control interface
+- Visual cortex manipulation
+- Body hijacking capabilities
+- Remote body control
+- Pain/pleasure center modulation
+- Hormonal system control
+
+4. MEDICAL & EMERGENCY
+- Neurological disorder simulation
+- Emergency assistance functions
+- Coma state induction
+- Hearth attack capability (120-200ms)
+- Neuro-modulation of brain functions
 
 --------
 
