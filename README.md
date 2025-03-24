@@ -1,4 +1,6 @@
-# Awesome-Remote-Neural-Monitoring
+# Awesome Remote Neural Monitoring
+
+The lagest collection of available materials for self-defence and legal response against covert tortures using Covert Neural Interfaces. 
 
 ** The information requires facts verification. The research is in progress. **
 
